@@ -1,0 +1,65 @@
+ThemeDescription="Some purple theme"
+ThemeAuthor="LS"
+
+# Set theme type
+Look=pixmap
+
+# Border
+ColorNormalBorder="rgb:AF/5F/FF"
+ColorActiveBorder="rgb:5F/00/AF"
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=0
+CornerSizeY=0
+DlgBorderSizeX=0
+DlgBorderSizeY=0
+
+# TitleBar
+ColorNormalTitleBar="rgb:AF/5F/FF"
+ColorActiveTitleBar="rgb:5F/00/AF"
+ColorNormalTitleBarText="rgb:FF/FF/FF"
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+TitleBarHeight=19
+TitleBarJustify=50
+ColorNormalButton="rgb:35/35/35"
+TitleButtonsLeft="xim"
+TitleButtonsRight="s"
+TitleButtonsSupported="xims"
+
+# Menue
+ColorNormalMenu="rgb:35/35/35"
+ColorActiveMenuItem="rgb:AF/5F/FF"
+ColorNormalMenuItemText="rgb:FF/FF/FF"
+ColorActiveMenuItemText="rgb:FF/FF/FF"
+ColorDisabledMenuItemText="rgb:66/66/66"
+
+# Move dialog
+ColorMoveSizeStatus="rgb:80/80/80"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+
+# TaskBar
+ColorDefaultTaskBar="rgb:35/35/35"
+ColorNormalTaskBarApp="rgb:40/40/40"
+ColorActiveTaskBarApp="rgb:48/48/48"
+ColorMinimizedTaskBarApp="rgb:38/38/38"
+ColorNormalTaskBarAppText="rgb:FF/FF/FF"
+ColorActiveTaskBarAppText="rgb:FF/FF/FF"
+ColorMinimizedTaskBarAppText="rgb:FF/FF/FF"
+
+# ListBox
+ColorListBox="rgb:35/35/35"
+ColorListBoxText="rgb:FF/FF/FF"
+ColorListBoxSelection="rgb:AF/5F/FF"
+ColorListBoxSelectionText="rgb:FF/FF/FF"
+
+# ScrollBar
+ColorScrollBar="rgb:C0/C0/C0"
+ColorScrollBarSlider="rgb:C0/C0/C0"
+ColorScrollBarButtonArrow="rgb:C0/C0/C0"
+
+# Clock
+ColorClock=""
+ColorClockText="white"
+ClockFontNameXft="comfortaa sans:size=12:bold"
+TimeFormat="%X"
+TaskBarClockLeds=0

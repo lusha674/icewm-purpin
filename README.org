@@ -1,0 +1,4 @@
+* Icewm Purpin Theme
+A retro style purple icewm theme with some custom icons.
+
+Clone into ~/.icewm/themes/ to install.
